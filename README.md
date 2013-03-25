@@ -1,7 +1,7 @@
 Example asset library for simple-dam
 ====================================
 
-To help people trying out the simple-dam project, here is a sample asset library!
+To help people trying out the [simple-dam project](https://github.com/mindcandy/simple-dam), here is a sample asset library!
 
 These pictures are from Flickr, shared with the Creative Commons license.
 We assert no Copyright over them and they remain the property of the original authors. (See description on each photo for a link to the flickr page)
